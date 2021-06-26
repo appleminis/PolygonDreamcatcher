@@ -22,3 +22,4 @@ for i in range(Ni):
     Xn[i] = Xi
     
 plt.plot(np.real(Xn),np.imag(Xn),'.')
+plt.show()
